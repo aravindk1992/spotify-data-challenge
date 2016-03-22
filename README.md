@@ -1,4 +1,4 @@
-# spotify-data-challenge
+# Spotify Data Challenge
 Spotify data challenge submission by Aravind Kumar Ramesh on March 22- 2016
 To view the submission please check out the rendered ipython notebook file.
 
